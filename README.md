@@ -1,5 +1,5 @@
 # Prudential Life Insurance Assessment
-<br>
+
 ![](images/front_page.png?raw=true)
 <br>
 The assessment involves predicting the risk factor for the company while giving health insurance for the applicants based on their medical hisory. Five different methods were used to predict the risk: Linear Regression model, Decision Tree, Support Vector Machine, XGBoost and Neuralnetwork.
