@@ -23,7 +23,7 @@ After getting the significant columns, linear regression was applied to the new 
 ![](images/linear.PNG?raw=true)
 <br>
 
-**2.Decision Tree:**
+**2. Decision Tree:**
 
 Built a decision tree model to predict the risk values in the test data.
 <br>
@@ -34,7 +34,7 @@ Built a decision tree model to predict the risk values in the test data.
 
 The third model built was a support vector machine model to do the predictions. For SVM all four different kernels (Radial, Linear, Sigmoid and Polynomial) were tried to get the predictions. 
 
-**XGBoost:**
+**4. XGBoost:**
 
 The XGBoost model was used to calculate the following predictions.
 <br>
