@@ -40,11 +40,9 @@ The XGBoost model was used to calculate the following predictions.
 <br>
 ![](images/xgboost.png?raw=true)
 <br>
-
 <br>
 ![](images/xgboost1.png?raw=true)
 <br>
-
 <br>
 ![](images/xgboost2.png?raw=true)
 <br>
