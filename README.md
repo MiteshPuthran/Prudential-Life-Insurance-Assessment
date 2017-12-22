@@ -16,25 +16,25 @@ The assessment involves predicting the risk factor for the company while giving 
 
 ## Building models to predict
 
-**1. Linear Model: **
+**1. Linear Model:**
 
 After getting the significant columns, linear regression was applied to the new processed dataset to predict the risk factor for the test data. The predicted results are below:
 <br>
 ![](images/linear.PNG?raw=true)
 <br>
 
-**2.Decision Tree: **
+**2.Decision Tree:**
 
 Built a decision tree model to predict the risk values in the test data.
 <br>
 ![](images/tree.PNG?raw=true)
 <br>
 
-**3. Support Vector Machines: **
+**3. Support Vector Machines:**
 
 The third model built was a support vector machine model to do the predictions. For SVM all four different kernels (Radial, Linear, Sigmoid and Polynomial) were tried to get the predictions. 
 
-**XGBoost: **
+**XGBoost:**
 
 The XGBoost model was used to calculate the following predictions.
 <br>
